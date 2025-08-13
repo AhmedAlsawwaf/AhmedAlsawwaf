@@ -80,5 +80,8 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlsawwaf" />
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlsawwaf&layout=compact" />
+</p>
 
 ---
