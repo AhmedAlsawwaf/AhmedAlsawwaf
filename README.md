@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:alsawwaf.2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alsawwaf.2001%40gmail.com-informational?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/ahmedalsawwaf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/AhmedAlsawwaf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github"></a>
 </p>
 
 ---
@@ -15,7 +15,6 @@
 ## 🚀 About Me
 - I’m a **Full‑Stack Developer** who loves building **scalable, user‑centric** web apps.
 - Comfortable across the stack: **React, JavaScript, CSS/Bootstrap** on the front end; **Python, Django, MySQL** on the back end.
-- Currently completing the **Axsos Academy Full‑Stack** program and applying for **Junior Full‑Stack Developer @ Axsos AG**.
 - I value **clean code, modular design, performance,** and **security**.
 
 ## 🧩 Tech Stack
@@ -41,9 +40,9 @@
 
 ## 🏗️ Featured Projects
 - **Netflix Landing Page (Clone)** — Responsive UI with dynamic interactions (Vanilla JS, HTML, CSS)  
-  🔗 Repo: https://github.com/YOUR-GITHUB-USERNAME/netflix-clone  
+  🔗 Repo: https://github.com/AhmedAlsawwaf/Netflix  
 - **Axsos AG Homepage (Clone)** — Pixel‑perfect layout, reusable components, smooth UX (HTML/CSS/JS)  
-  🔗 Repo: https://github.com/YOUR-GITHUB-USERNAME/axsos-homepage-clone  
+  🔗 Repo: https://github.com/AhmedAlsawwaf/AxsosAcademy  
 
 > I prioritize **accessibility**, **responsive layouts**, and **performance budgeting** to keep experiences fast and inclusive.
 
@@ -52,7 +51,7 @@
 - Practicing **unit/integration testing** for APIs and React components.  
 - Exploring **Docker** and **CI/CD** to streamline deployments.
 
-## 💼 Experience (Highlights)
+## 💼 Experience
 - **Dash IT — Intern (2023)**  
   Built responsive UIs with React & Bootstrap (**~20% performance improvement**), developed Django + MySQL APIs, and shipped 2 client modules within agile sprints.
 - **BOSS for Integrated Solutions — Intern (2022)**  
@@ -72,25 +71,14 @@
 ## 📨 Contact
 - 📧 Email: **alsawwaf.2001@gmail.com**
 - 🌍 Location: **Egypt**
-- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 🧑‍💻 GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- 🔗 LinkedIn: https://www.linkedin.com/in/ahmedalsawwaf
+- 🧑‍💻 GitHub: https://github.com/AhmedAlsawwaf
 
 ---
 
-### 📊 GitHub Stats (optional)
+### 📊 GitHub Stats 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_title=true" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlsawwaf" />
 </p>
 
 ---
-
-### ✅ Quick Start (how to use this)
-1. Replace all `YOUR-GITHUB-USERNAME` and `YOUR-LINKEDIN` placeholders.  
-2. Update project repo links.  
-3. Commit this as `README.md` in a repo named exactly your GitHub username to make it your **profile README**.
