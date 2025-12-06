@@ -1,7 +1,7 @@
 <!-- Profile README for Ahmed Y Alsawaf -->
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 <p align="center">
-  Full‑Stack Developer • React | Django | MySQL • Based in Egypt
+  Full‑Stack Developer •  Django | MySQL • Based in Egypt
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 - I’m a **Full‑Stack Developer** who loves building **scalable, user‑centric** web apps.
-- Comfortable across the stack: **React, JavaScript, CSS/Bootstrap** on the front end; **Python, Django, MySQL** on the back end.
+- Comfortable across the stack: **JavaScript, CSS/Bootstrap** on the front end; **Python, Django, MySQL** on the back end.
 - I value **clean code, modular design, performance,** and **security**.
 
 ## 🧩 Tech Stack
 **Languages:** `HTML` `CSS` `JavaScript` `Python`  
-**Frontend:** `React` `Bootstrap` `DOM APIs`  
+**Frontend:** `Bootstrap` `DOM APIs`  
 **Backend:** `Django` `Django REST`  
 **Database:** `MySQL`  
 **Tools:** `Git & GitHub` `VS Code` `Postman` `Jira` `Slack`  
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat" />
@@ -53,7 +52,7 @@
 
 ## 💼 Experience
 - **Dash IT — Intern (2023)**  
-  Built responsive UIs with React & Bootstrap (**~20% performance improvement**), developed Django + MySQL APIs, and shipped 2 client modules within agile sprints.
+  Built responsive UIs with Bootstrap (**~20% performance improvement**), developed Django + MySQL APIs, and shipped 2 client modules within agile sprints.
 - **BOSS for Integrated Solutions — Intern (2022)**  
   Practiced algorithms/data structures, wrote **clean, documented code**, and collaborated with **VS Code, Jira, Slack**.
 
