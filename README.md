@@ -1,86 +1,113 @@
 <!-- Profile README for Ahmed Y Alsawaf -->
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 <p align="center">
-  Full‑Stack Developer •  Django | MySQL • Based in Egypt
+  <strong>Full-Stack Developer • React | NestJS | Django | MySQL</strong><br>
+  📍 Based in Egypt
 </p>
 
 <p align="center">
-  <a href="mailto:alsawwaf.2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alsawwaf.2001%40gmail.com-informational?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ahmedalsawwaf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/AhmedAlsawwaf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github"></a>
+  <a href="mailto:alsawwaf.2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alsawwaf.2001%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmedalsawwaf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AhmedAlsawwaf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- I’m a **Full‑Stack Developer** who loves building **scalable, user‑centric** web apps.
-- Comfortable across the stack: **JavaScript, CSS/Bootstrap** on the front end; **Python, Django, MySQL** on the back end.
-- I value **clean code, modular design, performance,** and **security**.
+- I’m a **Full-Stack Developer** passionate about architecting **scalable, high-performance, and secure** web applications.
+- Highly versatile across modern ecosystems, bridging robust backend architectures (**NestJS, Django, MySQL**) with fluid, responsive user interfaces (**React.js, JavaScript, Bootstrap**).
+- Dedicated advocate for **clean architecture, modular design, rigorous API testing, and automated workflows**.
+
+---
 
 ## 🧩 Tech Stack
-**Languages:** `HTML` `CSS` `JavaScript` `Python`  
-**Frontend:** `Bootstrap` `DOM APIs`  
-**Backend:** `Django` `Django REST`  
-**Database:** `MySQL`  
-**Tools:** `Git & GitHub` `VS Code` `Postman` `Jira` `Slack`  
-**Practices:** `Agile` `Code Reviews` `Testing APIs` `Responsive Design`
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)` `TypeScript` `Python` `HTML5` `CSS3` |
+| **Frontend** | `React.js` `Redux / Context API` `DOM APIs` `Bootstrap` `Responsive Design` |
+| **Backend** | `NestJS` `Django` `Django REST Framework` `Node.js` |
+| **Databases** | `MySQL` `PostgreSQL` `ORM / TypeORM` |
+| **Tools & Practices** | `Git & GitHub` `Docker` `Postman` `Jira / Slack` `Agile / Scrum` `API Testing` |
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat-square" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" />
 </p>
+
+---
+
+## 💼 Professional Experience
+
+### **UMMAH1 — Full-Stack Developer Intern**
+*March 2026 – Present | Egypt (Remote)*
+- Architecting and maintaining feature modules leveraging **React.js** for interactive frontends and **NestJS** for scalable microservices.
+- Designing secure, optimized **RESTful APIs** and managing relational database schemas to handle complex application states.
+- Utilizing **TypeScript** across the entire stack to enforce type safety and reduce production runtime errors.
+
+### **Dash IT — Full-Stack Intern**
+*2023 | Palestine*
+- Developed data-driven backend APIs with **Django and MySQL**, shipping 2 core client modules within fast-paced Agile sprints.
+- Re-architected front-end components using **Bootstrap**, driving a **~20% improvement in page load performance and rendering speed**.
+- Participated actively in peer code reviews and sprint planning sessions to maintain rigorous standard compliance.
+
+### **BOSS for Integrated Solutions — Engineering Intern**
+*2022 | Palestine*
+- Implemented and optimized core algorithms and data structures to streamline internal data handling.
+- Wrote highly maintainable, clean, and thoroughly documented code within collaborative team pipelines.
+- Mastered cross-functional team toolkits, managing workflows seamlessly via **VS Code, Jira, and Slack**.
+
+---
 
 ## 🏗️ Featured Projects
-- **Netflix Landing Page (Clone)** — Responsive UI with dynamic interactions (Vanilla JS, HTML, CSS)  
-  🔗 Repo: https://github.com/AhmedAlsawwaf/Netflix  
-- **Axsos AG Homepage (Clone)** — Pixel‑perfect layout, reusable components, smooth UX (HTML/CSS/JS)  
-  🔗 Repo: https://github.com/AhmedAlsawwaf/AxsosAcademy  
 
-> I prioritize **accessibility**, **responsive layouts**, and **performance budgeting** to keep experiences fast and inclusive.
+*   **GivePulse — Blood Donation Management System** — A Django platform connecting blood donors with hospitals and NGOs. Features real-time **AJAX donor matching** by ABO/Rh blood type and location, **role-based portals** for donors, staff, and admins, **QR-code appointment verification**, automated **PDF donation certificates**, and instant **email/WhatsApp notifications**.
+    *   *Tech Stack:* `Django 4.2` `Python` `MySQL` `Bootstrap 5` `JavaScript (AJAX)` `Nginx` `Gunicorn` `AWS EC2`
+    *   🔗 [GitHub Repository](https://github.com/AhmedAlsawwaf/GivePulse)
 
-## 📈 What I’m Working On
-- Building **full‑stack apps** that emphasize **security** and **scalability**.  
-- Practicing **unit/integration testing** for APIs and React components.  
-- Exploring **Docker** and **CI/CD** to streamline deployments.
+*   **Medicen — Pharmacy Inventory & Medicine Finder** — A Django web app that lets anyone search for a medicine and instantly see which pharmacies have it in stock, complete with quantities, pricing, and contact details. Registered pharmacy owners create profiles and manage inventory across multiple stores through a clean, decentralized two-role architecture.
+    *   *Tech Stack:* `Django` `Python` `SQLite` `HTML5` `CSS3`
+    *   🔗 [GitHub Repository](https://github.com/AhmedAlsawwaf/Medicine)
 
-## 💼 Experience
-- **Dash IT — Intern (2023)**  
-  Built responsive UIs with Bootstrap (**~20% performance improvement**), developed Django + MySQL APIs, and shipped 2 client modules within agile sprints.
-- **BOSS for Integrated Solutions — Intern (2022)**  
-  Practiced algorithms/data structures, wrote **clean, documented code**, and collaborated with **VS Code, Jira, Slack**.
+*   **Netflix Landing Page (Clone)** — Highly responsive user interface featuring dynamic interactions, modal structures, and performance-optimized media rendering.
+    *   *Tech Stack:* `Vanilla JS` `HTML5` `CSS3`
+    *   🔗 [GitHub Repository](https://github.com/AhmedAlsawwaf/Netflix)
+
+*   **Axsos AG Homepage (Clone)** — Pixel-perfect layout replication emphasizing modular, reusable UI components and exceptionally smooth cross-device user experiences.
+    *   *Tech Stack:* `HTML5` `CSS3` `JavaScript`
+    *   🔗 [GitHub Repository](https://github.com/AhmedAlsawwaf/AxsosAcademy)
+
+> I prioritize web accessibility (a11y), standard semantic structures, and aggressive performance budgeting to keep application experiences accessible, fast, and inclusive for everyone.
+
+---
 
 ## 🎓 Education
-- **Axsos Academy** — Full‑Stack Developer Certificate (2025)  
-  620+ hours across web fundamentals, Python, algorithms, data structures, and two capstone projects (solo & group).
-- **The Arab Academy** — MBA (2025)  
-- **Al‑Azhar University** — BSc, Computer Systems Engineering (2019–2024)
 
-## 🧭 Values & How I Work
-- **Ownership:** From planning to delivery, I break features into **small, testable tasks**.  
-- **Team First:** Clear communication, feedback, and code reviews.  
-- **Quality:** Performance, security, and maintainability aren’t afterthoughts — they’re **requirements**.
+- **The Arab Academy** — Master of Business Administration (MBA), 2025
+- **Axsos Academy** — Full-Stack Developer Certificate, 2025
+  - *Immersive 620+ hour professional program covering advanced software engineering fundamentals, data structures, algorithms, and full-stack architecture capstones.*
+- **Al-Azhar University** — Bachelor of Science (BSc) in Computer Systems Engineering, 2019 – 2024
 
-## 📨 Contact
+---
+
+## 📈 Current Focuses & Horizons
+- Deepening expertise in **NestJS architectural patterns** (Dependency Injection, Guard middleware, and Custom Interceptors).
+- Implementing structured **Unit and Integration Testing** strategies using Jest for both backend APIs and React frontend components.
+- Advanced containerization practices with **Docker** and building robust **CI/CD pipelines** for automated deployments.
+
+---
+
+## 📨 Let's Connect!
 - 📧 Email: **alsawwaf.2001@gmail.com**
-- 🌍 Location: **Egypt**
-- 🔗 LinkedIn: https://www.linkedin.com/in/ahmedalsawwaf
-- 🧑‍💻 GitHub: https://github.com/AhmedAlsawwaf
-
----
-
-### 📊 GitHub Stats 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlsawwaf" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlsawwaf&layout=compact" />
-</p>
-
----
+- 💼 LinkedIn: [linkedin.com/in/ahmedalsawwaf](https://www.linkedin.com/in/ahmedalsawwaf)
+- 🧑‍💻 GitHub: [github.com/AhmedAlsawwaf](https://github.com/AhmedAlsawwaf)
