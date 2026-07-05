@@ -50,7 +50,7 @@
 ## 💼 Professional Experience
 
 ### **UMMAH1 — Full-Stack Developer Intern**
-*March 2026 – Present | Egypt (Remote)*
+*March 2026 – June 2026 | Egypt (Remote)*
 - Architecting and maintaining feature modules leveraging **React.js** for interactive frontends and **NestJS** for scalable microservices.
 - Designing secure, optimized **RESTful APIs** and managing relational database schemas to handle complex application states.
 - Utilizing **TypeScript** across the entire stack to enforce type safety and reduce production runtime errors.
