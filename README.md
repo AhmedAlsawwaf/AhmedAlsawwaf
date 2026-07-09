@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alsawwaf.2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alsawwaf.2001%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:alsawwafahmed@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alsawwafahmed%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ahmedalsawwaf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AhmedAlsawwaf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
